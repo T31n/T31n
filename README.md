@@ -1,2 +1,2 @@
-Android Developer
-Machine Learning Hobbyist 🤖
+- Android Developer
+- Machine Learning Hobbyist 🤖
