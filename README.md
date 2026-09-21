@@ -1,1 +1,2 @@
-The code is a mess and we need to clean them all.
+Android Developer
+Machine Learning Hobbyist 🤖
